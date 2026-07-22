@@ -38,6 +38,25 @@
       "archiveSHA256": "32fdfec31ff8f23bdf7939ed0cf86cd4844cd63c0e8ab6b0c7eb46ff4b7bdab3",
       "archiveSize": 16116129,
       "autoInstall": false
+    },
+    {
+      "metadata": {
+        "id": "lesson-03",
+        "number": "03",
+        "title": "Talking about work",
+        "cardTitle": "Talking about\nwork",
+        "duration": "12:33",
+        "durationSeconds": 753.012,
+        "level": "Beginner",
+        "symbol": "briefcase.fill",
+        "theme": "green",
+        "packageVersion": 1
+      },
+      "bundledPackage": "lesson-03.lfbplesson",
+      "downloadURL": "https://raw.githubusercontent.com/tranlocquy/LFBP-Lessons/main/packages/lesson-03.lfbplesson",
+      "archiveSHA256": "b93a88e735024762e0da82e120a1bab6bf1c08722396831b3712c29b028e470f",
+      "archiveSize": 21144800,
+      "autoInstall": false
     }
   ]
 }
