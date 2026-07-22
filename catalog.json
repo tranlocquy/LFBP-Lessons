@@ -76,6 +76,25 @@
       "archiveSHA256": "09b6cc102d8ea4a4cbc2ad67fc53312223a9bd90689444e275408b6a6deef787",
       "archiveSize": 31917941,
       "autoInstall": false
+    },
+    {
+      "metadata": {
+        "id": "lesson-05",
+        "number": "05",
+        "title": "The French alphabet",
+        "cardTitle": "The French\nalphabet",
+        "duration": "12:44",
+        "durationSeconds": 764.369,
+        "level": "Beginner",
+        "symbol": "textformat.abc",
+        "theme": "green",
+        "packageVersion": 1
+      },
+      "bundledPackage": "lesson-05.lfbplesson",
+      "downloadURL": "https://raw.githubusercontent.com/tranlocquy/LFBP-Lessons/main/packages/lesson-05.lfbplesson",
+      "archiveSHA256": "d5e45ec7b196993c17d6acb92c9198ee1cdf650ab221abe1f8f8c6df9b4e0a86",
+      "archiveSize": 25717886,
+      "autoInstall": false
     }
   ]
 }
