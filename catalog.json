@@ -69,12 +69,12 @@
         "level": "Intermediate",
         "symbol": "airplane.departure",
         "theme": "gold",
-        "packageVersion": 1
+        "packageVersion": 2
       },
       "bundledPackage": "lesson-04.lfbplesson",
       "downloadURL": "https://raw.githubusercontent.com/tranlocquy/LFBP-Lessons/main/packages/lesson-04.lfbplesson",
-      "archiveSHA256": "25a3cf1257a2aedec99c278d1bc31052dc1b212541f66964d4dab3ac1c9a8471",
-      "archiveSize": 31918000,
+      "archiveSHA256": "09b6cc102d8ea4a4cbc2ad67fc53312223a9bd90689444e275408b6a6deef787",
+      "archiveSize": 31917941,
       "autoInstall": false
     }
   ]
