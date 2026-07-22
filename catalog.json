@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "lessons": [
+    {
+      "metadata": {
+        "id": "lesson-01",
+        "number": "01",
+        "title": "Introducing yourself",
+        "cardTitle": "Introducing\nyourself",
+        "duration": "4:36",
+        "durationSeconds": 276.4,
+        "level": "Beginner",
+        "symbol": "waveform",
+        "theme": "blue",
+        "packageVersion": 1
+      },
+      "bundledPackage": "lesson-01.lfbplesson",
+      "downloadURL": "https://raw.githubusercontent.com/tranlocquy/LFBP-Lessons/main/packages/lesson-01.lfbplesson",
+      "archiveSHA256": "19dbe2e07d21e5358682bf4b8b57fbf1994ee9c190f50f55c1e2cebdf7cd293c",
+      "archiveSize": 7191393,
+      "autoInstall": true
+    },
+    {
+      "metadata": {
+        "id": "lesson-02",
+        "number": "02",
+        "title": "Talking about friends and family",
+        "cardTitle": "Talking about\nfriends & family",
+        "duration": "10:01",
+        "durationSeconds": 601.01,
+        "level": "Beginner",
+        "symbol": "person.2.wave.2.fill",
+        "theme": "red",
+        "packageVersion": 1
+      },
+      "bundledPackage": "lesson-02.lfbplesson",
+      "downloadURL": "https://raw.githubusercontent.com/tranlocquy/LFBP-Lessons/main/packages/lesson-02.lfbplesson",
+      "archiveSHA256": "32fdfec31ff8f23bdf7939ed0cf86cd4844cd63c0e8ab6b0c7eb46ff4b7bdab3",
+      "archiveSize": 16116129,
+      "autoInstall": false
+    }
+  ]
+}
