@@ -57,6 +57,25 @@
       "archiveSHA256": "b93a88e735024762e0da82e120a1bab6bf1c08722396831b3712c29b028e470f",
       "archiveSize": 21144800,
       "autoInstall": false
+    },
+    {
+      "metadata": {
+        "id": "lesson-04",
+        "number": "04",
+        "title": "A problem at the airport!",
+        "cardTitle": "A problem at\nthe airport!",
+        "duration": "14:56",
+        "durationSeconds": 896.04,
+        "level": "Intermediate",
+        "symbol": "airplane.departure",
+        "theme": "gold",
+        "packageVersion": 1
+      },
+      "bundledPackage": "lesson-04.lfbplesson",
+      "downloadURL": "https://raw.githubusercontent.com/tranlocquy/LFBP-Lessons/main/packages/lesson-04.lfbplesson",
+      "archiveSHA256": "25a3cf1257a2aedec99c278d1bc31052dc1b212541f66964d4dab3ac1c9a8471",
+      "archiveSize": 31918000,
+      "autoInstall": false
     }
   ]
 }
