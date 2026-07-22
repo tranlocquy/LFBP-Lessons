@@ -31,12 +31,12 @@
         "level": "Beginner",
         "symbol": "person.2.wave.2.fill",
         "theme": "red",
-        "packageVersion": 1
+        "packageVersion": 2
       },
       "bundledPackage": "lesson-02.lfbplesson",
       "downloadURL": "https://raw.githubusercontent.com/tranlocquy/LFBP-Lessons/main/packages/lesson-02.lfbplesson",
-      "archiveSHA256": "32fdfec31ff8f23bdf7939ed0cf86cd4844cd63c0e8ab6b0c7eb46ff4b7bdab3",
-      "archiveSize": 16116129,
+      "archiveSHA256": "d31edace23b5f0378ca777770367407df8cb11040d6150531332fafb7d711c4d",
+      "archiveSize": 16103163,
       "autoInstall": false
     },
     {
