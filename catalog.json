@@ -12,12 +12,12 @@
         "level": "Beginner",
         "symbol": "waveform",
         "theme": "blue",
-        "packageVersion": 1
+        "packageVersion": 2
       },
       "bundledPackage": "lesson-01.lfbplesson",
       "downloadURL": "https://raw.githubusercontent.com/tranlocquy/LFBP-Lessons/main/packages/lesson-01.lfbplesson",
-      "archiveSHA256": "19dbe2e07d21e5358682bf4b8b57fbf1994ee9c190f50f55c1e2cebdf7cd293c",
-      "archiveSize": 7191393,
+      "archiveSHA256": "a55c17053bb0042db649934ce34801006f61b8bc4d255a1d23ba824b2a2cff1b",
+      "archiveSize": 7194534,
       "autoInstall": true
     },
     {
@@ -31,12 +31,12 @@
         "level": "Beginner",
         "symbol": "person.2.wave.2.fill",
         "theme": "red",
-        "packageVersion": 2
+        "packageVersion": 3
       },
       "bundledPackage": "lesson-02.lfbplesson",
       "downloadURL": "https://raw.githubusercontent.com/tranlocquy/LFBP-Lessons/main/packages/lesson-02.lfbplesson",
-      "archiveSHA256": "d31edace23b5f0378ca777770367407df8cb11040d6150531332fafb7d711c4d",
-      "archiveSize": 16103163,
+      "archiveSHA256": "9ab9ae91916dea064da2a56d4c2244ba44cfb0fc03a13f7e809a0b8e06ea586a",
+      "archiveSize": 16307742,
       "autoInstall": false
     },
     {
@@ -50,12 +50,12 @@
         "level": "Beginner",
         "symbol": "briefcase.fill",
         "theme": "green",
-        "packageVersion": 1
+        "packageVersion": 2
       },
       "bundledPackage": "lesson-03.lfbplesson",
       "downloadURL": "https://raw.githubusercontent.com/tranlocquy/LFBP-Lessons/main/packages/lesson-03.lfbplesson",
-      "archiveSHA256": "b93a88e735024762e0da82e120a1bab6bf1c08722396831b3712c29b028e470f",
-      "archiveSize": 21144800,
+      "archiveSHA256": "445f295930be43d41c77b68b9d6e975b50160e9d1ac2a326f971ef5a3e8eb64c",
+      "archiveSize": 21317689,
       "autoInstall": false
     },
     {
@@ -69,12 +69,12 @@
         "level": "Intermediate",
         "symbol": "airplane.departure",
         "theme": "gold",
-        "packageVersion": 2
+        "packageVersion": 3
       },
       "bundledPackage": "lesson-04.lfbplesson",
       "downloadURL": "https://raw.githubusercontent.com/tranlocquy/LFBP-Lessons/main/packages/lesson-04.lfbplesson",
-      "archiveSHA256": "09b6cc102d8ea4a4cbc2ad67fc53312223a9bd90689444e275408b6a6deef787",
-      "archiveSize": 31917941,
+      "archiveSHA256": "7d7b74543cf1b70e2dae52560b253d015883a8d33c1ca312ff6e9918686cd02a",
+      "archiveSize": 31925054,
       "autoInstall": false
     },
     {
@@ -88,12 +88,12 @@
         "level": "Beginner",
         "symbol": "textformat.abc",
         "theme": "green",
-        "packageVersion": 1
+        "packageVersion": 2
       },
       "bundledPackage": "lesson-05.lfbplesson",
       "downloadURL": "https://raw.githubusercontent.com/tranlocquy/LFBP-Lessons/main/packages/lesson-05.lfbplesson",
-      "archiveSHA256": "d5e45ec7b196993c17d6acb92c9198ee1cdf650ab221abe1f8f8c6df9b4e0a86",
-      "archiveSize": 25717886,
+      "archiveSHA256": "947bfbf90b459bd9260b49703e917ff2100664e4b50a23aaabd622beade0d7e3",
+      "archiveSize": 25723885,
       "autoInstall": false
     },
     {
