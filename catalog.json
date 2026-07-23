@@ -95,6 +95,25 @@
       "archiveSHA256": "d5e45ec7b196993c17d6acb92c9198ee1cdf650ab221abe1f8f8c6df9b4e0a86",
       "archiveSize": 25717886,
       "autoInstall": false
+    },
+    {
+      "metadata": {
+        "id": "lesson-06",
+        "number": "06",
+        "title": "Discussing your interests",
+        "cardTitle": "Discussing your\ninterests",
+        "duration": "14:34",
+        "durationSeconds": 874.3445,
+        "level": "Beginner",
+        "symbol": "heart.text.square.fill",
+        "theme": "green",
+        "packageVersion": 1
+      },
+      "bundledPackage": "lesson-06.lfbplesson",
+      "downloadURL": "https://raw.githubusercontent.com/tranlocquy/LFBP-Lessons/main/packages/lesson-06.lfbplesson",
+      "archiveSHA256": "0925d9fe33e53878c4cc57e4accaaac4a66850cc03fd948b687c17cb422fbc3c",
+      "archiveSize": 36137035,
+      "autoInstall": false
     }
   ]
 }
