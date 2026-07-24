@@ -107,12 +107,12 @@
         "level": "Beginner",
         "symbol": "heart.text.square.fill",
         "theme": "green",
-        "packageVersion": 1
+        "packageVersion": 2
       },
       "bundledPackage": "lesson-06.lfbplesson",
       "downloadURL": "https://raw.githubusercontent.com/tranlocquy/LFBP-Lessons/main/packages/lesson-06.lfbplesson",
-      "archiveSHA256": "0925d9fe33e53878c4cc57e4accaaac4a66850cc03fd948b687c17cb422fbc3c",
-      "archiveSize": 36137035,
+      "archiveSHA256": "6a008f69a4366aca16cbda3dd2e14b95bb7c3c1ca9d9b56ab675884355fd1245",
+      "archiveSize": 36101964,
       "autoInstall": false
     }
   ]
