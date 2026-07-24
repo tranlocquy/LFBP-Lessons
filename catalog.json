@@ -152,6 +152,25 @@
       "archiveSHA256": "85fe43c88c979e265b1d676f33ea67b1dab6de9f81d4b1111a78036f552882e9",
       "archiveSize": 19564551,
       "autoInstall": false
+    },
+    {
+      "metadata": {
+        "id": "lesson-09",
+        "number": "09",
+        "title": "Discussing a sports event",
+        "cardTitle": "Discussing a\nsports event",
+        "duration": "12:34",
+        "durationSeconds": 753.6065,
+        "level": "Intermediate",
+        "symbol": "sportscourt.fill",
+        "theme": "gold",
+        "packageVersion": 1
+      },
+      "bundledPackage": "lesson-09.lfbplesson",
+      "downloadURL": "https://raw.githubusercontent.com/tranlocquy/LFBP-Lessons/main/packages/lesson-09.lfbplesson",
+      "archiveSHA256": "93191ca5f62d50094b609a6914e57be77ac40996adfdbbeef42c415bd2c62e5d",
+      "archiveSize": 31919455,
+      "autoInstall": false
     }
   ]
 }
