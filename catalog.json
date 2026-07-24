@@ -145,12 +145,12 @@
         "level": "Beginner",
         "symbol": "lightbulb.fill",
         "theme": "green",
-        "packageVersion": 1
+        "packageVersion": 2
       },
       "bundledPackage": "lesson-08.lfbplesson",
       "downloadURL": "https://raw.githubusercontent.com/tranlocquy/LFBP-Lessons/main/packages/lesson-08.lfbplesson",
-      "archiveSHA256": "4f256ebae6ead48951e90ea9a2e930277ea49cf6ac02842309b85e3968aaf852",
-      "archiveSize": 19564515,
+      "archiveSHA256": "85fe43c88c979e265b1d676f33ea67b1dab6de9f81d4b1111a78036f552882e9",
+      "archiveSize": 19564551,
       "autoInstall": false
     }
   ]
