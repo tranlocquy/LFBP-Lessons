@@ -171,6 +171,25 @@
       "archiveSHA256": "93191ca5f62d50094b609a6914e57be77ac40996adfdbbeef42c415bd2c62e5d",
       "archiveSize": 31919455,
       "autoInstall": false
+    },
+    {
+      "metadata": {
+        "id": "lesson-10",
+        "number": "10",
+        "title": "Discussing a movie you’ve seen",
+        "cardTitle": "Discussing a movie\nyou’ve seen",
+        "duration": "12:06",
+        "durationSeconds": 726.17795,
+        "level": "Beginner",
+        "symbol": "film.fill",
+        "theme": "green",
+        "packageVersion": 1
+      },
+      "bundledPackage": "lesson-10.lfbplesson",
+      "downloadURL": "https://raw.githubusercontent.com/tranlocquy/LFBP-Lessons/main/packages/lesson-10.lfbplesson",
+      "archiveSHA256": "74ed2081dbcdaa5aeda79198a00042bb94a27722268ec477e780ffd35d7e193d",
+      "archiveSize": 31899363,
+      "autoInstall": false
     }
   ]
 }
