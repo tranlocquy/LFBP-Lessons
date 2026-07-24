@@ -133,6 +133,25 @@
       "archiveSHA256": "70c8320864475c2577dcef5fbeab64b1b71f881068da34728fb2d2bde0ed5299",
       "archiveSize": 28990795,
       "autoInstall": false
+    },
+    {
+      "metadata": {
+        "id": "lesson-08",
+        "number": "08",
+        "title": "Making a suggestion",
+        "cardTitle": "Making a\nsuggestion",
+        "duration": "6:39",
+        "durationSeconds": 398.9943,
+        "level": "Beginner",
+        "symbol": "lightbulb.fill",
+        "theme": "green",
+        "packageVersion": 1
+      },
+      "bundledPackage": "lesson-08.lfbplesson",
+      "downloadURL": "https://raw.githubusercontent.com/tranlocquy/LFBP-Lessons/main/packages/lesson-08.lfbplesson",
+      "archiveSHA256": "4f256ebae6ead48951e90ea9a2e930277ea49cf6ac02842309b85e3968aaf852",
+      "archiveSize": 19564515,
+      "autoInstall": false
     }
   ]
 }
