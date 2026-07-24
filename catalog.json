@@ -183,12 +183,12 @@
         "level": "Beginner",
         "symbol": "film.fill",
         "theme": "green",
-        "packageVersion": 1
+        "packageVersion": 2
       },
       "bundledPackage": "lesson-10.lfbplesson",
       "downloadURL": "https://raw.githubusercontent.com/tranlocquy/LFBP-Lessons/main/packages/lesson-10.lfbplesson",
-      "archiveSHA256": "74ed2081dbcdaa5aeda79198a00042bb94a27722268ec477e780ffd35d7e193d",
-      "archiveSize": 31899363,
+      "archiveSHA256": "e342a5921da53e6c185b7ebadb514e87851691f95cf907221f651e0617cbedb8",
+      "archiveSize": 31899345,
       "autoInstall": false
     }
   ]
