@@ -114,6 +114,25 @@
       "archiveSHA256": "6a008f69a4366aca16cbda3dd2e14b95bb7c3c1ca9d9b56ab675884355fd1245",
       "archiveSize": 36101964,
       "autoInstall": false
+    },
+    {
+      "metadata": {
+        "id": "lesson-07",
+        "number": "07",
+        "title": "Talking about the future",
+        "cardTitle": "Talking about\nthe future",
+        "duration": "13:33",
+        "durationSeconds": 813.4008,
+        "level": "Beginner",
+        "symbol": "clock.arrow.circlepath",
+        "theme": "green",
+        "packageVersion": 1
+      },
+      "bundledPackage": "lesson-07.lfbplesson",
+      "downloadURL": "https://raw.githubusercontent.com/tranlocquy/LFBP-Lessons/main/packages/lesson-07.lfbplesson",
+      "archiveSHA256": "70c8320864475c2577dcef5fbeab64b1b71f881068da34728fb2d2bde0ed5299",
+      "archiveSize": 28990795,
+      "autoInstall": false
     }
   ]
 }
